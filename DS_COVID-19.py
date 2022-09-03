@@ -38,3 +38,4 @@ st.write('Nessa aplicação, o usuário tem a opção de escolher o estado e o t
 # faz o print do grafico dentro do streamlite.
 st.plotly_chart(fig, use_container_width=True)
 st.caption('Os dados foram obtidos a partir do site: https://github.com/wcota/covid19br')
+st.write("@author Juliano Sarnes Longo - SET/2022")
